@@ -22,6 +22,6 @@ This project demonstrates how to generate high-quality, photorealistic images fr
 |--------|
 | *"Modern kitchen with dark gray shaker cabinets, white quartz countertop island, stainless steel fridge and oven, subway tile backsplash, wood flooring, pendant lights, and a window with natural light.""* |
 
-
+Example - https://github.com/BimsaraS99/stable-diffusion-xl1.0-inference/blob/main/media_images_Generated-Image_0_0ae286526bcb14a768c5.png
 
 ---
